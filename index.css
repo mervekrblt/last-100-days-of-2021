@@ -1,0 +1,54 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  background-image: url(https://magtemplates.com/wp-content/uploads/2017/06/Good-HD-Desktop-Programming-Wallpapers.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  height: 100vh;
+  font-family: 'Twinkle Star',
+  cursive;
+}
+
+div {
+  background-color: #e6dacab9;
+  padding-left: 5vh;
+  padding-right: 5vh;
+}
+
+div > p {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  font-family: 'Twinkle Star',
+  cursive;
+  font-size: xx-large;
+  color: #ca853c;
+  font-weight: 900;
+}
+
+section > p {
+  font-family: 'Handlee',
+  cursive;
+  font-size: xx-large;
+  color: black;
+}
+
+section > .free {
+  font-family: 'Nosifer',
+  cursive;
+}
+
+.info {
+  font-family: 'Nosifer',
+    cursive;
+}
